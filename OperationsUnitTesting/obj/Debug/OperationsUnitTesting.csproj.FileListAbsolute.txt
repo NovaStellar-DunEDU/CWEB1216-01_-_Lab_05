@@ -1,0 +1,17 @@
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\OperationsUnitTesting.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\OperationsUnitTesting.pdb
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\obj\Debug\OperationsUnitTesting.csproj.AssemblyReference.cache
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\obj\Debug\OperationsUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\obj\Debug\Operatio.8394FE49.Up2Date
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\obj\Debug\OperationsUnitTesting.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\obj\Debug\OperationsUnitTesting.pdb
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\OperationsLibrary.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsUnitTesting\bin\Debug\OperationsLibrary.pdb
