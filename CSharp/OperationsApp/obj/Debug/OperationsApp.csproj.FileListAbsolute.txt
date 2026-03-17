@@ -1,0 +1,10 @@
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\obj\Debug\OperationsApp.csproj.AssemblyReference.cache
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\obj\Debug\OperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\bin\Debug\OperationsApp.exe.config
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\bin\Debug\OperationsApp.exe
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\bin\Debug\OperationsApp.pdb
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\bin\Debug\OperationsLibrary.dll
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\bin\Debug\OperationsLibrary.pdb
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\obj\Debug\Operatio.32D3A3B7.Up2Date
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\obj\Debug\OperationsApp.exe
+C:\Users\leeamym\Desktop\Classes\App Design\Assignments (CWEB1216-01)\ExercisesVSC\Lab05\OperationsApp\obj\Debug\OperationsApp.pdb
